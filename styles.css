@@ -99,3 +99,19 @@ button:disabled {
 #blue {
 	background-color: blue;
 }
+
+/* MEDIA QUERY FOR MOBILE SCALING */
+@media screen and (max-width: 600px) {
+	h1,
+	button {
+		font-size: 1.5rem;
+	}
+
+	h2 {
+		font-size: 1.2rem;
+	}
+
+	.game-container {
+		height: 50vh;
+	}
+}
