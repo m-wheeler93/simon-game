@@ -17,7 +17,7 @@
 
 /* TAG SELECTORS */
 body {
-	height: 100vh;
+	height: auto;
 	width: 100vw;
 	overflow: hidden;
 	color: whitesmoke;
@@ -105,13 +105,18 @@ button:disabled {
 	h1,
 	button {
 		font-size: 1.5rem;
+		margin: 0.5rem 0;
 	}
 
 	h2 {
-		font-size: 1.2rem;
+		font-size: 1rem;
 	}
 
-	.game-container {
+	button {
+		height: 3rem;
+	}
+
+	#game-container {
 		height: 50vh;
 	}
 }
