@@ -13,4 +13,4 @@
   <li>The level tracker displays how many times you have successfully recalled the pattern since starting</li>
 </ul>
 
-<p>Good Luck!</p>
+<a href="https://mattwheeler-dev.github.io/simon-game/" target="_blank">Test it out live here</a>
